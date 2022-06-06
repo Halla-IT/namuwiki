@@ -1,0 +1,200 @@
+@charset "utf-8";
+
+* {
+        margin: 0;
+        padding: 0;
+}
+
+#qqq { width: 100%;
+        display: inline-block;
+        height: 42px;
+        background-color: #2d2f34;
+
+}
+
+nav {   
+        width: 100%;
+        display: inline-block;
+        height: 42px;
+        background-color: #2d2f34;
+        text-align: center;
+                
+}
+#main {
+        width: 1300px;
+}
+
+#main article {
+        width: 1000px;
+        padding: 24px;
+}
+
+#main article aside nav {
+        width: 1300px
+}
+
+nav ul {
+        height: 42px;
+        display: inline-block;
+        
+
+}
+
+li {
+        list-style: none;
+        display: inline-block;
+        border: 1px solid dimgray;
+
+        width: 110px;
+        text-align: center;
+        padding: 9.6px;
+
+
+}
+
+.qa {
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        color: white;
+
+
+
+}
+
+input {
+        float: right;
+        background-color: #27292d;
+        border: none;
+        width: 220px;
+        height: 40px;
+        color: white;
+
+
+}
+
+#main {
+        margin: auto;
+        
+
+}
+
+
+#main article div h1 {
+        display: inline-block;
+        color: white;
+}
+
+.h_link {
+        border: 1px solid black;
+        border-collapse: collapse;
+        float: right;
+        text-decoration: none;
+        color: white;
+        padding: 4px 12.8px;
+        margin: 0px 0px 0px -1px;
+        font-size: 14ox;
+
+        
+}
+
+#main div #time {
+
+        text-align: right;
+        color: white;
+        font-size: 12px;
+        padding: 5px;
+}
+
+#main article {
+        background-color:  #27292d;
+        float: left;
+}
+
+body {
+        background-color: black;
+}
+
+#tree span{
+                align-items: center;
+}
+
+#main>#a>#namu {
+                        margin: 0px 16px 0px 0px;
+                        padding: 24px;
+}
+
+img {
+        margin: 0% 13% ;
+        width:  728px ;
+        height: 90px;
+}
+
+ a{
+        font-size: 14px;
+        text-decoration: none;
+        color: orange;
+}
+
+#etc {
+        font-size: 14px;
+        color:white;
+        border: 1px solid white;
+        margin: 0px 0px 14px;
+        padding: 3px 3px 3px 5px;
+}
+
+#tree {
+       text-align: center;
+}
+
+.b {
+        font-size: 20px ;
+}
+
+h1{
+        font-size: 35px;
+}
+
+tr td {
+        border: 1px solid #373a3c;
+        border-collapse: collapse;
+}       
+
+td {
+        padding: 5px 10px;
+}
+
+aside {
+        border: 1px solid gray;
+        color: white;
+        display: inline-block;
+        background-color: #27292d;
+        
+        
+}
+
+.qa {
+        border: none;
+        float: left;
+}
+
+aside h3 {
+                width: 230px;
+                height: 22px;
+                margin: 20px;
+}
+
+aside div{ 
+        width: 270px;
+        height: 32px;
+        font-size: 14px;
+        padding: 4px 52.8px 4px 8px;
+        border: 0.5px solid white;
+        border-bottom-style: none;
+
+}
+
+aside div span {
+                float: right;
+}
